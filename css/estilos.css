@@ -44,6 +44,7 @@ h2{
 .nav-bar a:hover{
     filter:  brightness(.6);
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .end-container{
